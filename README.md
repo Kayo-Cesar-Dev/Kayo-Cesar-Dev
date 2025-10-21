@@ -29,11 +29,6 @@ Mantenho um forte senso de arquitetura de software, atuando com **microsserviço
 
 ---
 
-### ⚙️ Controle de Versão & Metodologia
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,confluence,agile&theme=dark" />
-</p>
-
 ---
 
 ### 🎨 Habilidades de Interface (Valor Agregado)
