@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=480&lines=Olá%2C+sou+Kayo+César!;Engenheiro+Back-end+Java%2FSpring;Desenvolvedor+de+Sistemas+Escaláveis" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Status_do_Serviço-ONLINE_24%2F7-10B981?style=for-the-badge&logo=spring&logoColor=white"/>
-    
+<p align="center">W
     <img src="https://img.shields.io/badge/Linguagem_Base-JAVA-007ACC?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
