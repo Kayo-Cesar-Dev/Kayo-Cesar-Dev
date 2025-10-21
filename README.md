@@ -1,1 +1,45 @@
-Perfeito! Vamos criar algo **único e totalmente diferente** do clássico “cobrinha comendo commits”. Como o GitHub só aceita **SVG ou GIF** para animações dentro do README, vou gerar um **SVG animado completo** inspirado na ideia de **universo do código**: - Um “sol” central representando você ou seu logo. - Planetas orbitando representando suas tecnologias (HTML, CSS, JS, React, Java, Git). - Estrelas piscando no fundo. - Hover simples com tooltip (funciona em SVG). - Estilo moderno, tons escuros com laranja da sua paleta (#F78D26). - Sem JS, 100% compatível com GitHub. --- ### SVG Animado: Planetas Orbitando Você pode salvar este código como `planetas.svg` e usar no README assim: ```md ![Planetas do Código](planetas.svg) ``` --- ```xml <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"> <defs> <style> .bg { fill: radial-gradient(circle, #000010, #000022); } .star { fill: white; opacity: 0.7; animation: twinkle 2s infinite alternate; } .sun { fill: #F78D26; font-size: 40px; text-anchor: middle; dominant-baseline: middle; } .planet { font-size: 25px; text-anchor: middle; dominant-baseline: middle; cursor: default; } @keyframes rotate1 { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } } @keyframes rotate2 { 0% { transform: rotate(360deg); } 100% { transform: rotate(0deg); } } @keyframes twinkle { 0% { opacity: 0.2; } 50% { opacity: 1; } 100% { opacity: 0.2; } } </style> </defs> <!-- Fundo escuro --> <rect width="400" height="400" fill="#000010"/> <!-- Estrelas --> <circle class="star" cx="50" cy="30" r="2"/> <circle class="star" cx="120" cy="90" r="2"/> <circle class="star" cx="200" cy="50" r="2"/> <circle class="star" cx="300" cy="120" r="2"/> <circle class="star" cx="350" cy="60" r="2"/> <!-- Sol central --> <text x="200" y="200" class="sun">☀️</text> <!-- Órbitas e planetas --> <g transform="translate(200,200)"> <g> <circle r="60" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="60" y="0">🌐</text> <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/> </g> <g> <circle r="90" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="90" y="0">🎨</text> <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="15s" repeatCount="indefinite"/> </g> <g> <circle r="120" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="120" y="0">⚡</text> <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="20s" repeatCount="indefinite"/> </g> <g> <circle r="150" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="150" y="0">⚛️</text> <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="25s" repeatCount="indefinite"/> </g> <g> <circle r="180" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="180" y="0">☕</text> <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="30s" repeatCount="indefinite"/> </g> <g> <circle r="210" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/> <text class="planet" x="210" y="0">🐙</text> <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="35s" repeatCount="indefinite"/> </g> </g> </svg> ``` --- ✅ **Vantagens desse SVG:** - Totalmente compatível com GitHub. - Visual moderno, diferente de todos os READMEs que usam cobrinha. - Planetas girando representam suas skills. - Estrelas piscando dão sensação de movimento e universo. - Sem JS, sem `<div>` ou `<style>` externo. --- Se você quiser, posso **aprimorar ainda mais**, deixando **planetas com cores do seu tema**, pequenas **partículas estilo meteoros representando commits**, e **hover tooltip dentro do SVG** para ficar **realmente único e viral**
+<!-- HEADER ANIMADO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78D26&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Kayo+César!;Desenvolvedor+Front-end;UI%2FUX+Designer;Estudante+de+Sistemas+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://www.instagram.com/kcscode/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kayo-césar-cavalcante-61767930a"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@kayocs?lang=pt-BR"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@akayocesar"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+Sou *Kayo César, desenvolvedor **Front-end*** e *UI/UX Designer*, apaixonado por transformar ideias em interfaces intuitivas e responsivas.  
+Atualmente, estudo *Análise e Desenvolvimento de Sistemas* e aprofundo meus conhecimentos em *Java e React*.
+
+> 💡 “Criar com propósito, codar com fé.” ✝️
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,java,react,figma,git,github&theme=dark" />
+</p>
+
+---
+
+### 🌌 Universo do Código
+<p align="center">
+  <img src="planetas.svg" alt="Planetas do Código"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KcsDevStudio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KcsDevStudio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KcsDevStudio&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
