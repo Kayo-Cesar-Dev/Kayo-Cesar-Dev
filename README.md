@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=480&lines=Olá%2C+sou+Kayo+César!;Engenheiro+Back-end+Java%2FSpring;Desenvolvedor+de+Sistemas+Escaláveis" alt="Typing SVG" />
 </h1>
 
-<p align="center">W
+<p align="center">
     <img src="https://img.shields.io/badge/Linguagem_Base-JAVA-007ACC?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
@@ -16,17 +16,15 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou *Kayo César*, **Engenheiro Back-end** com expertise em projetar e construir **APIs robustas** e **sistemas escaláveis** utilizando **Java** e **Spring Boot**. Minha paixão é transformar requisitos de negócio complexos em soluções de software eficientes, seguras e de alta performance.
+Sou *Kayo César*, **Engenheiro Back-end** com expertise em projetar e construir **APIs robustas** e **sistemas escaláveis** utilizando **Java** e **Spring Boot**. E transformar requisitos de negócio complexos em soluções de software eficientes, seguras e de alta performance.
 
 Mantenho um forte senso de arquitetura de software, atuando com **microsserviços**, **mensageria** (Kafka) e **contenção** (Docker/Kubernetes).
-
-> 💡 “Criar com propósito, codar com fé.” ✝️
 
 ---
 
 ### ☁️ Back-end & Infraestrutura Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,docker,kubernetes,jenkins,kafka,redis,aws,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,docker,postman&theme=dark" />
 </p>
 
 ---
